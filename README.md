@@ -1,6 +1,5 @@
-# road-accident-analytics
 # 🚦 Road Accident Analysis Dashboard
-![Dashboard Preview](Dashboard/Dashboard-Preview.png
+![Dashboard Preview](Dashboard/Dashboard-Preview.png)
 This project presents an interactive dashboard that provides an overview of road accidents and casualties.  
 The dashboard visualizes accident statistics by vehicle type, road type, location, light condition, and urban/rural distribution to help stakeholders identify critical areas for road safety improvement.  
 
